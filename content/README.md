@@ -5,9 +5,7 @@ description: Catalog of links to articles on computer security including topics 
 
 # IT Security Catalog
 
-Available from [https://it-sec-catalog.info/](https://it-sec-catalog.info/).
-
-We have moved to https://gitlab.com/Gerkis/it-sec-catalog.
+Available from [https://gerkis.gitlab.io/it-sec-catalog/](https://gerkis.gitlab.io/it-sec-catalog/) or [https://it-sec-catalog.info/](https://it-sec-catalog.info/).
 
 ## About this project
 
@@ -19,7 +17,7 @@ There are some rules regarding what kind of links are included:
 * articles without much details (like general advisories) are not included;
 * web-security is not in the scope.
 
-This project is running since 2010.
+This project is running since 2010. Since September 2018 the project is hosted on [GitLab](https://gitlab.com/Gerkis/it-sec-catalog).
 
 ## Author and contributors
 
