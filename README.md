@@ -7,7 +7,7 @@ description: Catalog of links to articles on computer security including topics 
 
 Available from [https://it-sec-catalog.info/](https://it-sec-catalog.info/).
 
-While currently being rebuilt, please see https://arthurgerkis.gitbooks.io/it-sec-catalog/content/
+We have moved to https://gitlab.com/Gerkis/it-sec-catalog.
 
 ## About this project
 

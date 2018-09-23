@@ -6,9 +6,10 @@
   width: 260px;
 }
 
-@media (min-width: 600px)
+@media (min-width: 600px) {
 .book.with-summary .book-body {
-  left: 260px;
+  left: 260px !important;
+}
 }
 
 .navigation.navigation-prev {
