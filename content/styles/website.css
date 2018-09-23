@@ -1,0 +1,21 @@
+.page-inner {
+  max-width: 98%;
+}
+
+.book-summary {
+  width: 260px;
+}
+
+@media (min-width: 600px) {
+.book.with-summary .book-body {
+  left: 260px !important;
+}
+}
+
+.navigation.navigation-prev {
+  display: none;
+}
+
+.navigation.navigation-next {
+  display: none;
+}
