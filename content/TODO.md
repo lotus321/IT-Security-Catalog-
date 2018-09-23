@@ -4,8 +4,7 @@
 
 ### Urgent
 
-1. add links from "Waiting List" to cate
-ries
+1. add links from "Waiting List" to categories
 2. add more links to "Browser Exploitation"
 3. add more links to "Mobile Exploitation"
 4. rename "Mitigations" sections

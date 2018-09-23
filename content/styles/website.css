@@ -3,13 +3,13 @@
 }
 
 .book-summary {
-  width: 260px;
+  width: 250px;
 }
 
 @media (min-width: 600px) {
-.book.with-summary .book-body {
-  left: 260px !important;
-}
+  .book.with-summary .book-body {
+    left: 250px !important;
+  }
 }
 
 .navigation.navigation-prev {
