@@ -771,3 +771,13 @@ These links are about to be added. ~90 Links to go...
 [http://blogs.360.cn/post/Microsoft%20Edge%20Chakra%20OP_NewScObjArray%20Type%20Confusion%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8.html](http://blogs.360.cn/post/Microsoft%20Edge%20Chakra%20OP_NewScObjArray%20Type%20Confusion%20%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%88%A9%E7%94%A8.html) (CN)
 
 [https://blogs.projectmoon.pw/2018/09/15/Edge-Inline-Segment-Use-After-Free/](https://blogs.projectmoon.pw/2018/09/15/Edge-Inline-Segment-Use-After-Free/) (CN)
+
+[https://googleprojectzero.blogspot.com/2018/09/a-cache-invalidation-bug-in-linux.html](https://googleprojectzero.blogspot.com/2018/09/a-cache-invalidation-bug-in-linux.html)
+
+[https://seclists.org/oss-sec/2018/q3/274](https://seclists.org/oss-sec/2018/q3/274)
+
+[https://cyseclabs.com/blog/linux-kernel-heap-spray](https://cyseclabs.com/blog/linux-kernel-heap-spray)
+
+[https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
+
+[https://lgtm.com/blog/apache_struts_CVE-2018-11776-part2](https://lgtm.com/blog/apache_struts_CVE-2018-11776-part2)
