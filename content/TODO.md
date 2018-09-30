@@ -27,7 +27,7 @@
 
 ## Waiting List
 
-These links are about to be added. ~90 Links to go...
+These links are about to be added. ~374 Links to go...
 
 * Articles from [https://scarybeastsecurity.blogspot.de/](https://scarybeastsecurity.blogspot.de/)
 * Articles from [https://modexp.wordpress.com/](https://modexp.wordpress.com/)
@@ -80,7 +80,7 @@ These links are about to be added. ~90 Links to go...
 
 [https://googleprojectzero.blogspot.de/2016/12/chrome-os-exploit-one-byte-overflow-and.html](https://googleprojectzero.blogspot.de/2016/12/chrome-os-exploit-one-byte-overflow-and.html)
 
-### 2017 \(70\)
+### 2017 \(126\)
 
 [https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/](https://blogs.technet.microsoft.com/mmpc/2017/01/13/hardening-windows-10-with-zero-day-exploit-mitigations/)
 
@@ -334,7 +334,7 @@ These links are about to be added. ~90 Links to go...
 
 [https://cybellum.com/vulnerability-analysis-type-confusion-microsoft-word-2016/](https://cybellum.com/vulnerability-analysis-type-confusion-microsoft-word-2016/)
 
-# 2018
+# 2018 (228)
 
 [https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-bonus-printf-might-be-leaking/](https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-bonus-printf-might-be-leaking/)
 
@@ -781,3 +781,17 @@ These links are about to be added. ~90 Links to go...
 [https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/](https://research.kudelskisecurity.com/2018/09/25/analyzing-arm-cortex-based-mcu-firmwares-using-binary-ninja/)
 
 [https://lgtm.com/blog/apache_struts_CVE-2018-11776-part2](https://lgtm.com/blog/apache_struts_CVE-2018-11776-part2)
+
+[https://phoenhex.re/2018-09-26/safari-array-concat](https://phoenhex.re/2018-09-26/safari-array-concat)
+
+[https://medium.com/@jimmysong/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362](https://medium.com/@jimmysong/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362)
+
+[https://blog.araj.me/state-of-memory-safety-in-linux/](https://blog.araj.me/state-of-memory-safety-in-linux/)
+
+[https://github.com/IOActive/FuzzNDIS/](https://github.com/IOActive/FuzzNDIS/)
+
+[http://phrack.org/papers/escaping_the_java_sandbox.html](http://phrack.org/papers/escaping_the_java_sandbox.html)
+
+[https://secure2.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/Sophos-Comprehensive-Exploit-Prevention-wpna.pdf](https://secure2.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/Sophos-Comprehensive-Exploit-Prevention-wpna.pdf)
+
+[http://0xdabbad00.com/wp-content/uploads/2013/04/exploit_mitigation_kill_chain.pdf](http://0xdabbad00.com/wp-content/uploads/2013/04/exploit_mitigation_kill_chain.pdf)
