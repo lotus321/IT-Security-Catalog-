@@ -795,3 +795,18 @@ These links are about to be added. ~374 Links to go...
 [https://secure2.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/Sophos-Comprehensive-Exploit-Prevention-wpna.pdf](https://secure2.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/Sophos-Comprehensive-Exploit-Prevention-wpna.pdf)
 
 [http://0xdabbad00.com/wp-content/uploads/2013/04/exploit_mitigation_kill_chain.pdf](http://0xdabbad00.com/wp-content/uploads/2013/04/exploit_mitigation_kill_chain.pdf)
+
+[https://www.zerodayinitiative.com/blog/2018/9/28/onix-finding-pokmon-in-your-acrobat-revealing-a-new-attack-surface](https://www.zerodayinitiative.com/blog/2018/9/28/onix-finding-pokmon-in-your-acrobat-revealing-a-new-attack-surface)
+
+[https://www.synacktiv.com/ressources/advisories/Vectra_Cognito_cve_2018_14889_14890_14891.pdf](https://www.synacktiv.com/ressources/advisories/Vectra_Cognito_cve_2018_14889_14890_14891.pdf)
+
+[http://blog.ptsecurity.com/2018/10/intel-me-manufacturing-mode-macbook.html](http://blog.ptsecurity.com/2018/10/intel-me-manufacturing-mode-macbook.html)
+
+[https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html)
+[https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html)
+[https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html)
+[https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html)
+
+[https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/](https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/)
+
+[https://googleprojectzero.blogspot.com/2018/10/365-days-later-finding-and-exploiting.html](https://googleprojectzero.blogspot.com/2018/10/365-days-later-finding-and-exploiting.html)
