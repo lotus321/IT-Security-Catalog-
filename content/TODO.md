@@ -803,8 +803,11 @@ These links are about to be added. ~374 Links to go...
 [http://blog.ptsecurity.com/2018/10/intel-me-manufacturing-mode-macbook.html](http://blog.ptsecurity.com/2018/10/intel-me-manufacturing-mode-macbook.html)
 
 [https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part1.html)
+
 [https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part2.html)
+
 [https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part3.html)
+
 [https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html](https://blog.lexfo.fr/cve-2017-11176-linux-kernel-exploitation-part4.html)
 
 [https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/](https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/)
