@@ -810,3 +810,25 @@ These links are about to be added. ~374 Links to go...
 [https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/](https://osandamalith.com/2018/02/01/exploiting-format-strings-in-windows/)
 
 [https://googleprojectzero.blogspot.com/2018/10/365-days-later-finding-and-exploiting.html](https://googleprojectzero.blogspot.com/2018/10/365-days-later-finding-and-exploiting.html)
+
+[https://blog.eclypsium.com/2018/09/06/insecure-firmware-updates-in-server-management-systems/](https://blog.eclypsium.com/2018/09/06/insecure-firmware-updates-in-server-management-systems/)
+
+[https://depletionmode.com/zircon-process.html](https://depletionmode.com/zircon-process.html)
+
+[https://geosn0w.github.io/Jailbreaks-Demystified/](https://geosn0w.github.io/Jailbreaks-Demystified/)
+
+[https://blogs.projectmoon.pw/2018/10/07/Use-After-Free-in-mDNSOffloadUserClient-kext/](https://blogs.projectmoon.pw/2018/10/07/Use-After-Free-in-mDNSOffloadUserClient-kext/)
+
+[https://drive.google.com/file/d/1v53GCYPxzoZmB1dCop1yJfZgS1wi64dS/view](https://drive.google.com/file/d/1v53GCYPxzoZmB1dCop1yJfZgS1wi64dS/view)
+
+[https://blogs.securiteam.com/index.php/archives/3766](https://blogs.securiteam.com/index.php/archives/3766)
+
+[https://blogs.securiteam.com/index.php/archives/3765](https://blogs.securiteam.com/index.php/archives/3765)
+
+[https://outflank.nl/blog/2018/10/12/sylk-xlm-code-execution-on-office-2011-for-mac/](https://outflank.nl/blog/2018/10/12/sylk-xlm-code-execution-on-office-2011-for-mac/)
+
+[https://tyranidslair.blogspot.com/2018/10/farewell-to-token-stealing-uac-bypass.html](https://tyranidslair.blogspot.com/2018/10/farewell-to-token-stealing-uac-bypass.html)
+
+[https://leucosite.com/Microsoft-Edge-RCE/](https://leucosite.com/Microsoft-Edge-RCE/)
+
+[https://www.pentestpartners.com/security-blog/time-travel-debugging-finding-windows-gdi-flaws/](https://www.pentestpartners.com/security-blog/time-travel-debugging-finding-windows-gdi-flaws/)
