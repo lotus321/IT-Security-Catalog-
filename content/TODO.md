@@ -27,7 +27,7 @@
 
 ## Waiting List
 
-These links are about to be added. ~374 Links to go...
+These links are about to be added. ~380 Links to go...
 
 * Articles from [https://scarybeastsecurity.blogspot.de/](https://scarybeastsecurity.blogspot.de/)
 * Articles from [https://modexp.wordpress.com/](https://modexp.wordpress.com/)
