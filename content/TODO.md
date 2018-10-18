@@ -835,3 +835,11 @@ These links are about to be added. ~374 Links to go...
 [https://leucosite.com/Microsoft-Edge-RCE/](https://leucosite.com/Microsoft-Edge-RCE/)
 
 [https://www.pentestpartners.com/security-blog/time-travel-debugging-finding-windows-gdi-flaws/](https://www.pentestpartners.com/security-blog/time-travel-debugging-finding-windows-gdi-flaws/)
+
+[https://labs.nettitude.com/blog/cve-2018-8955-bitdefender-gravityzone-arbitrary-code-execution/](https://labs.nettitude.com/blog/cve-2018-8955-bitdefender-gravityzone-arbitrary-code-execution/)
+
+[https://labs.mwrinfosecurity.com/assets/BlogFiles/huawei-mate9pro-pwn2own-write-up-final-2018-04-26.pdf](https://labs.mwrinfosecurity.com/assets/BlogFiles/huawei-mate9pro-pwn2own-write-up-final-2018-04-26.pdf)
+
+[https://googleprojectzero.blogspot.com/2018/10/injecting-code-into-windows-protected.html](https://googleprojectzero.blogspot.com/2018/10/injecting-code-into-windows-protected.html)
+
+[https://blog.exodusintel.com/2018/10/16/hpe-imc-a-case-study-on-the-reliability-of-security-fixes/](https://blog.exodusintel.com/2018/10/16/hpe-imc-a-case-study-on-the-reliability-of-security-fixes/)
