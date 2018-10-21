@@ -843,3 +843,9 @@ These links are about to be added. ~380 Links to go...
 [https://googleprojectzero.blogspot.com/2018/10/injecting-code-into-windows-protected.html](https://googleprojectzero.blogspot.com/2018/10/injecting-code-into-windows-protected.html)
 
 [https://blog.exodusintel.com/2018/10/16/hpe-imc-a-case-study-on-the-reliability-of-security-fixes/](https://blog.exodusintel.com/2018/10/16/hpe-imc-a-case-study-on-the-reliability-of-security-fixes/)
+
+[https://googleprojectzero.blogspot.com/2018/10/deja-xnu.html](https://googleprojectzero.blogspot.com/2018/10/deja-xnu.html)
+
+[https://bugid.skylined.nl/20181017001.html](https://bugid.skylined.nl/20181017001.html)
+
+[https://www.zerodayinitiative.com/blog/2018/10/18/cve-2018-8460-exposing-a-double-free-in-internet-explorer-for-code-execution](https://www.zerodayinitiative.com/blog/2018/10/18/cve-2018-8460-exposing-a-double-free-in-internet-explorer-for-code-execution)
