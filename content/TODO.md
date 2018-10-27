@@ -849,3 +849,13 @@ These links are about to be added. ~380 Links to go...
 [https://bugid.skylined.nl/20181017001.html](https://bugid.skylined.nl/20181017001.html)
 
 [https://www.zerodayinitiative.com/blog/2018/10/18/cve-2018-8460-exposing-a-double-free-in-internet-explorer-for-code-execution](https://www.zerodayinitiative.com/blog/2018/10/18/cve-2018-8460-exposing-a-double-free-in-internet-explorer-for-code-execution)
+
+[https://posts.specterops.io/cve-2018-8414-a-case-study-in-responsible-disclosure-ff74c39615ba](https://posts.specterops.io/cve-2018-8414-a-case-study-in-responsible-disclosure-ff74c39615ba)
+
+[https://googleprojectzero.blogspot.com/2018/10/heap-feng-shader-exploiting-swiftshader.html](https://googleprojectzero.blogspot.com/2018/10/heap-feng-shader-exploiting-swiftshader.html)
+
+[https://www.zerodayinitiative.com/blog/2018/10/24/cve-2018-4338-triggering-an-information-disclosure-on-macos-through-a-broadcom-airport-kext](https://www.zerodayinitiative.com/blog/2018/10/24/cve-2018-4338-triggering-an-information-disclosure-on-macos-through-a-broadcom-airport-kext)
+
+[https://www.securepatterns.com/2018/10/cve-2018-14665-xorg-x-server.html](https://www.securepatterns.com/2018/10/cve-2018-14665-xorg-x-server.html)
+
+[https://blogs.projectmoon.pw/2018/10/26/Chakra-JIT-Loop-LandingPad-ImplicitCall-Bypass/](https://blogs.projectmoon.pw/2018/10/26/Chakra-JIT-Loop-LandingPad-ImplicitCall-Bypass/) (CN)
