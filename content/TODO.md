@@ -859,3 +859,23 @@ These links are about to be added. ~380 Links to go...
 [https://www.securepatterns.com/2018/10/cve-2018-14665-xorg-x-server.html](https://www.securepatterns.com/2018/10/cve-2018-14665-xorg-x-server.html)
 
 [https://blogs.projectmoon.pw/2018/10/26/Chakra-JIT-Loop-LandingPad-ImplicitCall-Bypass/](https://blogs.projectmoon.pw/2018/10/26/Chakra-JIT-Loop-LandingPad-ImplicitCall-Bypass/) (CN)
+
+[https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-pwn2own-vuln-write-up-2018-10-29-final.pdf](https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-pwn2own-vuln-write-up-2018-10-29-final.pdf)
+
+[https://blogs.securiteam.com/index.php/archives/3783](https://blogs.securiteam.com/index.php/archives/3783)
+
+[https://blogs.securiteam.com/index.php/archives/3786](https://blogs.securiteam.com/index.php/archives/3786)
+
+[https://shadowfile.inode.link/blog/2018/10/source-level-debugging-the-xnu-kernel/](https://shadowfile.inode.link/blog/2018/10/source-level-debugging-the-xnu-kernel/)
+
+[https://sandboxescaper.blogspot.com/2018/10/reversing-alpc-where-are-your-windows.html](https://sandboxescaper.blogspot.com/2018/10/reversing-alpc-where-are-your-windows.html)
+
+[https://www.zerodayinitiative.com/blog/2018/10/31/preventative-patching-produces-pwn2own-participants-panic](https://www.zerodayinitiative.com/blog/2018/10/31/preventative-patching-produces-pwn2own-participants-panic)
+
+[http://www.phrack.org/papers/viewer_discretion_advised.html](http://www.phrack.org/papers/viewer_discretion_advised.html)
+
+[https://semmle.com/news/apple-xnu-kernel-icmp-nfs-vulnerabilities](https://semmle.com/news/apple-xnu-kernel-icmp-nfs-vulnerabilities)
+
+[https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html](https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html)
+
+[https://insinuator.net/2018/11/h2hc2018/](https://insinuator.net/2018/11/h2hc2018/)
