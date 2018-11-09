@@ -879,3 +879,15 @@ These links are about to be added. ~380 Links to go...
 [https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html](https://blog.talosintelligence.com/2018/11/TALOS-2018-0636.html)
 
 [https://insinuator.net/2018/11/h2hc2018/](https://insinuator.net/2018/11/h2hc2018/)
+
+[https://wbenny.github.io/2018/11/04/wow64-internals.html](https://wbenny.github.io/2018/11/04/wow64-internals.html)
+
+[https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/](https://blog.zimperium.com/cve-2018-9411-new-critical-vulnerability-multiple-high-privileged-android-services/)
+
+[https://github.com/MorteNoir1/virtualbox_e1000_0day](https://github.com/MorteNoir1/virtualbox_e1000_0day)
+
+[https://raw.githubusercontent.com/akayn/Bugs/master/ZDI-CAN-5622/README.md](https://raw.githubusercontent.com/akayn/Bugs/master/ZDI-CAN-5622/README.md)
+
+[https://github.com/saelo/pwn2own2018](https://github.com/saelo/pwn2own2018)
+
+[https://blog.xyz.is/2018/enso.html](https://blog.xyz.is/2018/enso.html)
