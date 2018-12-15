@@ -36,6 +36,7 @@ These links are about to be added. ~380 Links to go...
 * [https://bugs.chromium.org/p/chromium/issues/list?can=1&q=Pwn2Own&colspec=ID+Pri+M+Stars+ReleaseBlock+Component+Status+Owner+Summary+OS+Modified&x=m&y=releaseblock&cells=ids](https://bugs.chromium.org/p/chromium/issues/list?can=1&q=Pwn2Own&colspec=ID+Pri+M+Stars+ReleaseBlock+Component+Status+Owner+Summary+OS+Modified&x=m&y=releaseblock&cells=ids)
 * [http://robert.ocallahan.org](http://robert.ocallahan.org)
 
+
 ### 2015
 
 [https://cloudblogs.microsoft.com/microsoftsecure/2015/06/17/understanding-type-confusion-vulnerabilities-cve-2015-0336/](https://cloudblogs.microsoft.com/microsoftsecure/2015/06/17/understanding-type-confusion-vulnerabilities-cve-2015-0336/)
@@ -891,3 +892,79 @@ These links are about to be added. ~380 Links to go...
 [https://github.com/saelo/pwn2own2018](https://github.com/saelo/pwn2own2018)
 
 [https://blog.xyz.is/2018/enso.html](https://blog.xyz.is/2018/enso.html)
+
+[https://nafiez.github.io/security/pointer/2018/11/09/Microsoft-win32ksys-invalid-pointer.html](https://nafiez.github.io/security/pointer/2018/11/09/Microsoft-win32ksys-invalid-pointer.html)
+
+[https://www.voidsecurity.in/2018/11/virtualbox-vmsvga-vm-escape.html](https://www.voidsecurity.in/2018/11/virtualbox-vmsvga-vm-escape.html)
+
+[https://justi.cz/security/2018/11/14/gvisor-lpe.html](https://justi.cz/security/2018/11/14/gvisor-lpe.html)
+
+[https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2](https://duo.com/labs/research/secure-boot-in-the-era-of-the-t2)
+
+[https://out-of-tree.io/](https://out-of-tree.io/)
+
+[https://github.com/airbus-seclab/bincat](https://github.com/airbus-seclab/bincat)
+
+[https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/](https://blogs.dropbox.com/tech/2018/11/offensive-testing-to-make-dropbox-and-the-world-a-safer-place/)
+
+[https://tyranidslair.blogspot.com/2018/11/finding-windows-rpc-client.html](https://tyranidslair.blogspot.com/2018/11/finding-windows-rpc-client.html)
+
+[https://github.com/tharina/BlackHoodie-2018-Workshop](https://github.com/tharina/BlackHoodie-2018-Workshop)
+
+[https://blog.checkpoint.com/2016/02/10/too-much-freedom-is-dangerous-understanding-ie-11-cve-2015-2419-exploitation/](https://blog.checkpoint.com/2016/02/10/too-much-freedom-is-dangerous-understanding-ie-11-cve-2015-2419-exploitation/)
+
+[https://yurichev.com/blog/int_over/](https://yurichev.com/blog/int_over/)
+
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=1644](https://bugs.chromium.org/p/project-zero/issues/detail?id=1644)
+
+[https://googleprojectzero.blogspot.com/2018/11/injecting-code-into-windows-protected.html](https://googleprojectzero.blogspot.com/2018/11/injecting-code-into-windows-protected.html)
+
+[https://huhong-nus.github.io/advanced-DOP/papers/dop.pdf](https://huhong-nus.github.io/advanced-DOP/papers/dop.pdf)
+
+[https://i.blackhat.com/eu-18/Thu-Dec-6/eu-18-Ding-Cutting-Edge-Microsoft-Browser-Security-From-People-Who-Owned-It-wp.pdf](https://i.blackhat.com/eu-18/Thu-Dec-6/eu-18-Ding-Cutting-Edge-Microsoft-Browser-Security-From-People-Who-Owned-It-wp.pdf)
+
+[https://www.zerodayinitiative.com/blog/2018/12/4/directx-to-the-kernel](https://www.zerodayinitiative.com/blog/2018/12/4/directx-to-the-kernel)
+
+[https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html?spref=tw](https://blog.k3170makan.com/2018/11/glibc-heap-exploitation-basics.html?spref=tw)
+
+[https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html](https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html)
+
+[https://blogs.projectmoon.pw/2018/11/30/A-Late-Kernel-Bug-Type-Confusion-in-NECP/](https://blogs.projectmoon.pw/2018/11/30/A-Late-Kernel-Bug-Type-Confusion-in-NECP/) (CN)
+
+[https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/](https://geosn0w.github.io/Debugging-macOS-Kernel-For-Fun/)
+
+[https://blogs.securiteam.com/index.php/archives/3796](https://blogs.securiteam.com/index.php/archives/3796)
+
+[https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d](https://medium.com/tenable-techblog/remotely-exploiting-zoom-meetings-5a811342ba1d)
+
+[https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-1.html](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-1.html)
+
+[https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-2.html](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-2.html)
+
+[https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv.html?utm_source=social&utm_medium=twitter-org&utm_campaign=sprinklr&utm_term=FortiGuard+Labs](https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv.html?utm_source=social&utm_medium=twitter-org&utm_campaign=sprinklr&utm_term=FortiGuard+Labs)
+
+[https://github.com/niklasb/sploits](https://github.com/niklasb/sploits)
+
+[https://www.zerodayinitiative.com/blog/2018/12/11/when-one-corruption-is-not-enough-analyzing-an-adobe-pwn2own-exploit](https://www.zerodayinitiative.com/blog/2018/12/11/when-one-corruption-is-not-enough-analyzing-an-adobe-pwn2own-exploit)
+
+[https://securelist.com/zero-day-in-windows-kernel-transaction-manager-cve-2018-8611/89253/](https://securelist.com/zero-day-in-windows-kernel-transaction-manager-cve-2018-8611/89253/)
+
+[https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-3.html](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-3.html)
+
+[https://go.armis.com/bleedingbit](https://go.armis.com/bleedingbit)
+
+[https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/](https://blogs.technet.microsoft.com/srd/2018/12/10/first-steps-in-hyper-v-research/)
+
+[https://hernan.de/blog/2018/10/30/super-hexagon-a-journey-from-el0-to-s-el3/](https://hernan.de/blog/2018/10/30/super-hexagon-a-journey-from-el0-to-s-el3/)
+
+[https://embedi.org/blog/nuclear-explotion/](https://embedi.org/blog/nuclear-explotion/)
+
+[https://github.com/fireeye/flare-emu](https://github.com/fireeye/flare-emu)
+
+[https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-4.html](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-4.html)
+
+[https://research.checkpoint.com/50-adobe-cves-in-50-days/](https://research.checkpoint.com/50-adobe-cves-in-50-days/)
+
+[https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-5.html](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-5.html)
+
+[https://www.fortinet.com/blog/threat-research/a-look-into-xpc-internals--reverse-engineering-the-xpc-objects.html](https://www.fortinet.com/blog/threat-research/a-look-into-xpc-internals--reverse-engineering-the-xpc-objects.html)

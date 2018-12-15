@@ -299,7 +299,8 @@ This page will gather links to all publicly-disclosed exploits.
 | 5 | [https://github.com/laginimaineb/cve-2014...](https://github.com/laginimaineb/cve-2014-7920-7921) | Exploit code for CVE-2014-7920 and CVE-2014-7921 - code-exec in mediaserver up to Android 5.1 | 24-01-2016 | laginimaineb | < Android 5.1 | [CVE-2014-7921](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-7921), [CVE-2014-7920](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-7920) |
 | 6 | [https://github.com/secmob/cansecwest20...](https://github.com/secmob/cansecwest2016) | full exploit for CVE-2015-6764 used in pwn2own mobile 2015 | 19-03-2016 | secmob | Nexus, Android | [CVE-2015-6764](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-6764) |
 | 7 | [https://github.com/vysec/CVE-2017-8759](https://github.com/vysec/CVE-2017-8759) | CVE-2017-8759 Weaponisation PoC | 14-09-2017 | Vincent Yiu | Windows | [CVE-2017-8759](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-8759) |
-
+| 8 | [https://github.com/hacksysteam/WpadEscape](https://github.com/hacksysteam/WpadEscape) | WPAD Sandbox Escape | 15-11-2018 | hacksysteam | Windows | N/A |
+| 9 | [https://github.com/niklasb/sploits](https://github.com/niklasb/sploits) | GitHub (Exploits by niklasb) | xx-11-2018 | niklasb | - | N/A |
 
 TODO: add exploits from "exploit site:bugs.chromium.org"
 
@@ -322,8 +323,11 @@ TODO: add exploits from "exploit site:bugs.chromium.org"
 | 2 | [https://googleprojectzero.blogspot.de/20...](https://googleprojectzero.blogspot.de/2016/07/a-year-of-windows-kernel-font-fuzzing-2.html) | A year of Windows kernel font fuzzing #2: the techniques | 01-07-2016 | Mateusz (j00ru) Jurczyk | Windows | N/A |
 | 3 | [https://labs.mwrinfosecurity.com/publica...](https://labs.mwrinfosecurity.com/publications/bug-hunting-with/) | Bug hunting with static code analysis | 08-07-2016 | Nick Jones | - | N/A |
 | 4 | [https://github.com/google/fuzzer-test-su...](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/libFuzzerTutorial.md) | libFuzzer Tutorial | xx-xx-201 | ? | - | N/A |
-| 5 | [https://symeonp.github.io/2017/09/17/fuz...](https://symeonp.github.io/2017/09/17/fuzzing-winafl.html) | Fuzzing the MSXML6 library with WinAFL | 17-09-2017 | Symeon | Windows | N/A |
-| 6 | [https://kciredor.com/fuzzing-adobe-reade...](https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html) | Fuzzing Adobe Reader for exploitable vulns (fun != profit) | 25-04-2018 | kciredor | - | N/A |
+| 5 | [https://dl.packetstormsecurity.net/paper...](https://dl.packetstormsecurity.net/papers/general/a-review-of-fuzzing-tools-and-methods.pdf) | A Review of Fuzzing Tools and Methods | 10-03-2017 | James Fell | - | N/A |
+| 6 | [https://symeonp.github.io/2017/09/17/fuz...](https://symeonp.github.io/2017/09/17/fuzzing-winafl.html) | Fuzzing the MSXML6 library with WinAFL | 17-09-2017 | Symeon | Windows | N/A |
+| 7 | [https://kciredor.com/fuzzing-adobe-reade...](https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html) | Fuzzing Adobe Reader for exploitable vulns (fun != profit) | 25-04-2018 | kciredor | - | N/A |
+| 8 | [https://www.fuzzingbook.org/](https://www.fuzzingbook.org/) | Generating Software Tests | xx-xx-2018 | Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler | - | N/A |
+
 
 ## Around security
 
