@@ -968,3 +968,21 @@ These links are about to be added. ~380 Links to go...
 [https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-5.html](https://googleprojectzero.blogspot.com/2018/12/adventures-in-video-conferencing-part-5.html)
 
 [https://www.fortinet.com/blog/threat-research/a-look-into-xpc-internals--reverse-engineering-the-xpc-objects.html](https://www.fortinet.com/blog/threat-research/a-look-into-xpc-internals--reverse-engineering-the-xpc-objects.html)
+
+[https://rootkits.xyz/blog/tag/exploitation/](https://rootkits.xyz/blog/tag/exploitation/)
+
+[https://googleprojectzero.blogspot.com/2018/12/searching-statically-linked-vulnerable.html](https://googleprojectzero.blogspot.com/2018/12/searching-statically-linked-vulnerable.html)
+
+[https://www.zerodayinitiative.com/blog/2018/12/18/top-5-day-two-electron-boogaloo-a-case-for-technodiversity](https://www.zerodayinitiative.com/blog/2018/12/18/top-5-day-two-electron-boogaloo-a-case-for-technodiversity)
+
+[https://www.zerodayinitiative.com/blog/2018/12/17/seeing-double-exploiting-a-blind-spot-in-memgc](https://www.zerodayinitiative.com/blog/2018/12/17/seeing-double-exploiting-a-blind-spot-in-memgc)
+
+[https://googleprojectzero.blogspot.com/2018/12/on-vbscript.html](https://googleprojectzero.blogspot.com/2018/12/on-vbscript.html)
+
+[https://www.zerodayinitiative.com/blog/2018/12/19/an-insincere-form-of-flattery-impersonating-users-on-microsoft-exchange](https://www.zerodayinitiative.com/blog/2018/12/19/an-insincere-form-of-flattery-impersonating-users-on-microsoft-exchange)
+
+[https://www.zerodayinitiative.com/blog/2018/12/20/really-check-errors-pointing-to-the-object-of-your-desire](https://www.zerodayinitiative.com/blog/2018/12/20/really-check-errors-pointing-to-the-object-of-your-desire)
+
+[https://www.zerodayinitiative.com/blog/2018/12/21/zdi-18-1372-the-elegant-bypass](https://www.zerodayinitiative.com/blog/2018/12/21/zdi-18-1372-the-elegant-bypass)
+
+[https://medium.com/tenable-techblog/exploiting-an-18-year-old-bug-b47afe54172](https://medium.com/tenable-techblog/exploiting-an-18-year-old-bug-b47afe54172)
