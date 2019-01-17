@@ -986,3 +986,11 @@ These links are about to be added. ~380 Links to go...
 [https://www.zerodayinitiative.com/blog/2018/12/21/zdi-18-1372-the-elegant-bypass](https://www.zerodayinitiative.com/blog/2018/12/21/zdi-18-1372-the-elegant-bypass)
 
 [https://medium.com/tenable-techblog/exploiting-an-18-year-old-bug-b47afe54172](https://medium.com/tenable-techblog/exploiting-an-18-year-old-bug-b47afe54172)
+
+[https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/ie-scripting-flaw-still-a-threat-to-unpatched-systems-analyzing-cve-2018-8653/](https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/ie-scripting-flaw-still-a-threat-to-unpatched-systems-analyzing-cve-2018-8653/)
+
+[https://github.com/ernw/hardening/blob/master/operating_system/osx/10.14/ERNW_Hardening_OS_X_Mojave.md](https://github.com/ernw/hardening/blob/master/operating_system/osx/10.14/ERNW_Hardening_OS_X_Mojave.md)
+
+[https://census-labs.com/news/2019/01/11/straight-outta-vmware-microsoft-bluehat-v18-black-hat-europe-2018/](https://census-labs.com/news/2019/01/11/straight-outta-vmware-microsoft-bluehat-v18-black-hat-europe-2018/)
+
+[https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/](https://abiondo.me/2019/01/02/exploiting-math-expm1-v8/)
