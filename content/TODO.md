@@ -1005,6 +1005,10 @@ These links are about to be added. ~380 Links to go...
 
 [https://ti.360.net/blog/articles/cve-2018-8453-win32k-elevation-of-privilege-vulnerability-targeting-the-middle-east-en/](https://ti.360.net/blog/articles/cve-2018-8453-win32k-elevation-of-privilege-vulnerability-targeting-the-middle-east-en/)
 
+
+# 2019 (?)
+
+
 [https://embedi.org/blog/remotely-compromise-devices-by-using-bugs-in-marvell-avastar-wi-fi-from-zero-knowledge-to-zero-click-rce/](https://embedi.org/blog/remotely-compromise-devices-by-using-bugs-in-marvell-avastar-wi-fi-from-zero-knowledge-to-zero-click-rce/)
 
 [https://github.com/airbus-seclab/bincat](https://github.com/airbus-seclab/bincat)
@@ -1032,3 +1036,61 @@ These links are about to be added. ~380 Links to go...
 [https://googleprojectzero.blogspot.com/2019/01/voucherswap-exploiting-mig-reference.html](https://googleprojectzero.blogspot.com/2019/01/voucherswap-exploiting-mig-reference.html)
 
 [https://blog.fuzzing-project.org/65-When-your-Memory-Allocator-hides-Security-Bugs.html](https://blog.fuzzing-project.org/65-When-your-Memory-Allocator-hides-Security-Bugs.html)
+
+[https://www.zerodayinitiative.com/blog/2019/1/31/implementing-fuzz-logics-with-dharma](https://www.zerodayinitiative.com/blog/2019/1/31/implementing-fuzz-logics-with-dharma)
+
+[https://srcincite.io/blog/2019/02/01/activex-exploitation-in-2018-instantiation-is-not-scripting.html](https://srcincite.io/blog/2019/02/01/activex-exploitation-in-2018-instantiation-is-not-scripting.html)
+
+[https://googleprojectzero.blogspot.com/2019/02/examining-pointer-authentication-on.html](https://googleprojectzero.blogspot.com/2019/02/examining-pointer-authentication-on.html)
+
+[https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md](https://github.com/google/fuzzer-test-suite/blob/master/tutorial/structure-aware-fuzzing.md)
+
+[https://research.checkpoint.com/reverse-rdp-attack-code-execution-on-rdp-clients/](https://research.checkpoint.com/reverse-rdp-attack-code-execution-on-rdp-clients/)
+
+[https://lgtm.com/blog/ghostscript_CVE-2018-19134_exploit](https://lgtm.com/blog/ghostscript_CVE-2018-19134_exploit)
+
+[https://www.zerodayinitiative.com/blog/2019/2/6/using-the-weblinks-api-to-reach-javascript-uafs-in-adobe-reader](https://www.zerodayinitiative.com/blog/2019/2/6/using-the-weblinks-api-to-reach-javascript-uafs-in-adobe-reader)
+
+[https://codewhitesec.blogspot.com/2019/02/telerik-revisited.html](https://codewhitesec.blogspot.com/2019/02/telerik-revisited.html)
+
+[https://www.jaybosamiya.com/blog/2019/01/02/krautflare/](https://www.jaybosamiya.com/blog/2019/01/02/krautflare/)
+
+[https://googleprojectzero.blogspot.com/2019/02/the-curious-case-of-convexity-confusion.html](https://googleprojectzero.blogspot.com/2019/02/the-curious-case-of-convexity-confusion.html)
+
+[https://tyranidslair.blogspot.com/2019/02/a-brief-history-of-basenamedobjects-on.html](https://tyranidslair.blogspot.com/2019/02/a-brief-history-of-basenamedobjects-on.html)
+
+[https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/](https://doar-e.github.io/blog/2019/01/28/introduction-to-turbofan/)
+
+[https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm](https://blog.senr.io/blog/why-is-my-perfectly-good-shellcode-not-working-cache-coherency-on-mips-and-arm)
+
+[https://github.com/vngkv123/aSiagaming/tree/master/Chrome-v8-906043](https://github.com/vngkv123/aSiagaming/tree/master/Chrome-v8-906043)
+
+[https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html](https://blog.dragonsector.pl/2019/02/cve-2019-5736-escape-from-docker-and.html)
+
+[https://medium.com/tenable-techblog/make-it-rain-with-mikrotik-c90705459bc6](https://medium.com/tenable-techblog/make-it-rain-with-mikrotik-c90705459bc6)
+
+[https://shenaniganslabs.io/2019/02/13/Dirty-Sock.html](https://shenaniganslabs.io/2019/02/13/Dirty-Sock.html)
+
+[https://www.auxy.xyz/tutorial/Webkit-Exp-Tutorial/#](https://www.auxy.xyz/tutorial/Webkit-Exp-Tutorial/#)
+
+[https://duo.com/labs/research/apple-t2-xpc](https://duo.com/labs/research/apple-t2-xpc)
+
+[https://medium.com/@fsx30/bypass-edrs-memory-protection-introduction-to-hooking-2efb21acffd6](https://medium.com/@fsx30/bypass-edrs-memory-protection-introduction-to-hooking-2efb21acffd6)
+
+[https://labs.mwrinfosecurity.com/blog/ventures-into-hyper-v-part-1-fuzzing-hypercalls](https://labs.mwrinfosecurity.com/blog/ventures-into-hyper-v-part-1-fuzzing-hypercalls)
+
+[https://tyranidslair.blogspot.com/2019/02/accessing-access-tokens-for-uiaccess.html](https://tyranidslair.blogspot.com/2019/02/accessing-access-tokens-for-uiaccess.html)
+
+[https://stek29.rocks/2019/02/15/touchbar-eosd](https://stek29.rocks/2019/02/15/touchbar-eosd)
+
+[https://saelo.github.io/papers/thesis.pdf](https://saelo.github.io/papers/thesis.pdf)
+
+[https://tyranidslair.blogspot.com/2019/02/ntfs-case-sensitivity-on-windows.html](https://tyranidslair.blogspot.com/2019/02/ntfs-case-sensitivity-on-windows.html)
+
+[https://research.checkpoint.com/extracting-code-execution-from-winrar/](https://research.checkpoint.com/extracting-code-execution-from-winrar/)
+
+[https://blog.talosintelligence.com/2019/02/windbg-malware-analysis-with-javascript.html](https://blog.talosintelligence.com/2019/02/windbg-malware-analysis-with-javascript.html)
+
+[https://github.com/mwrlabs/3d-accelerated-exploitation](https://github.com/mwrlabs/3d-accelerated-exploitation)
+
+[https://www.antid0te.com/blog/19-02-22-ios-kernel-backtrace-information-leak-vulnerability.html](https://www.antid0te.com/blog/19-02-22-ios-kernel-backtrace-information-leak-vulnerability.html)
