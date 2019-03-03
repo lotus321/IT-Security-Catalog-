@@ -1094,3 +1094,13 @@ These links are about to be added. ~380 Links to go...
 [https://github.com/mwrlabs/3d-accelerated-exploitation](https://github.com/mwrlabs/3d-accelerated-exploitation)
 
 [https://www.antid0te.com/blog/19-02-22-ios-kernel-backtrace-information-leak-vulnerability.html](https://www.antid0te.com/blog/19-02-22-ios-kernel-backtrace-information-leak-vulnerability.html)
+
+[https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html](https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html)
+
+[https://www.malwaretech.com/2019/03/analyzing-a-windows-dhcp-server-bug-cve-2019-0626.html](https://www.malwaretech.com/2019/03/analyzing-a-windows-dhcp-server-bug-cve-2019-0626.html)
+
+[https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/](https://capsule8.com/blog/millions-of-binaries-later-a-look-into-linux-hardening-in-the-wild/)
+
+[https://www.zerodayinitiative.com/blog/2019/2/28/finding-unicorns-when-the-c-compiler-writes-the-vuln](https://www.zerodayinitiative.com/blog/2019/2/28/finding-unicorns-when-the-c-compiler-writes-the-vuln)
+
+[https://melligra.fun/webkit/2019/02/15/cve-2018-4441/](https://melligra.fun/webkit/2019/02/15/cve-2018-4441/)
