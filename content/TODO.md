@@ -1136,3 +1136,27 @@ These links are about to be added. ~380 Links to go...
 [https://www.zerodayinitiative.com/blog/2019/3/14/the-apple-bug-that-fell-near-the-webkit-tree](https://www.zerodayinitiative.com/blog/2019/3/14/the-apple-bug-that-fell-near-the-webkit-tree)
 
 [https://googleprojectzero.blogspot.com/2019/03/windows-kernel-logic-bug-class-access.html](https://googleprojectzero.blogspot.com/2019/03/windows-kernel-logic-bug-class-access.html)
+
+[https://labs.mwrinfosecurity.com/advisories/windows-dhcp-client/](https://labs.mwrinfosecurity.com/advisories/windows-dhcp-client/)
+
+[https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analysis-of-a-chrome-zero-day-cve-2019-5786/?utm_content=sf209682204&utm_source=twitter&utm_campaign=McAfee&sf209682204=1](https://securingtomorrow.mcafee.com/other-blogs/mcafee-labs/analysis-of-a-chrome-zero-day-cve-2019-5786/?utm_content=sf209682204&utm_source=twitter&utm_campaign=McAfee&sf209682204=1)
+
+[https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html](https://offsec.provadys.com/intro-to-file-operation-abuse-on-Windows.html)
+
+[https://blog.exodusintel.com/2019/02/20/cve-2019-5786-analysis-and-exploitation/](https://blog.exodusintel.com/2019/02/20/cve-2019-5786-analysis-and-exploitation/)
+
+[https://github.com/googleprojectzero/fuzzilli](https://github.com/googleprojectzero/fuzzilli)
+
+[https://blogs.technet.microsoft.com/srd/2019/03/19/vulnerability-hunting-with-semmle-ql-part-2/](https://blogs.technet.microsoft.com/srd/2019/03/19/vulnerability-hunting-with-semmle-ql-part-2/)
+
+[https://research.checkpoint.com/karta-matching-open-sources-in-binaries/](https://research.checkpoint.com/karta-matching-open-sources-in-binaries/)
+
+[https://gracefulbits.com/2019/03/25/some-notes-on-identifying-exit-and-hypercall-handlers-in-hyperv/](https://gracefulbits.com/2019/03/25/some-notes-on-identifying-exit-and-hypercall-handlers-in-hyperv/)
+
+[https://www.microsoft.com/security/blog/2019/03/25/from-alert-to-driver-vulnerability-microsoft-defender-atp-investigation-unearths-privilege-escalation-flaw/](https://www.microsoft.com/security/blog/2019/03/25/from-alert-to-driver-vulnerability-microsoft-defender-atp-investigation-unearths-privilege-escalation-flaw/)
+
+[https://blog.zecops.com/vulnerabilities/exploit-of-cve-2019-7286/](https://blog.zecops.com/vulnerabilities/exploit-of-cve-2019-7286/)
+
+[https://medium.com/0xcc/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef](https://medium.com/0xcc/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef)
+
+[https://bugs.chromium.org/p/project-zero/issues/detail?id=1791](https://bugs.chromium.org/p/project-zero/issues/detail?id=1791)
