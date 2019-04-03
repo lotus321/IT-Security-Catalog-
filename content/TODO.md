@@ -1160,3 +1160,7 @@ These links are about to be added. ~380 Links to go...
 [https://medium.com/0xcc/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef](https://medium.com/0xcc/one-liner-safari-sandbox-escape-exploit-91082ddbe6ef)
 
 [https://bugs.chromium.org/p/project-zero/issues/detail?id=1791](https://bugs.chromium.org/p/project-zero/issues/detail?id=1791)
+
+[https://countercept.com/blog/analysis-shadowhammer-asus-attack-first-stage-payload/](https://countercept.com/blog/analysis-shadowhammer-asus-attack-first-stage-payload/)
+
+[https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)

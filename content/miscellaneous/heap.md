@@ -76,6 +76,7 @@ Listings are in no particular order except when there is a date.
 | 30 | https://github.com/avast-tl/retdec | avast-tl/retdec: RetDec is a retargetable machine-code decompiler based on LLVM |
 | 31 | https://github.com/0vercl0k/windbg-scripts/ | A bunch of JavaScript extensions for WinDbg |
 | 32 | https://github.com/WildByDesign/Privexec | Run the program with the specified permission level |
+| 33 | https://github.com/Wenzel/pyvmidbg | LibVMI-based GDB server, implemented in Python |
 
 
 ## Blogs by security people or teams
