@@ -1164,3 +1164,9 @@ These links are about to be added. ~380 Links to go...
 [https://countercept.com/blog/analysis-shadowhammer-asus-attack-first-stage-payload/](https://countercept.com/blog/analysis-shadowhammer-asus-attack-first-stage-payload/)
 
 [https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/](https://azeria-labs.com/heap-exploitation-part-2-glibc-heap-free-bins/)
+
+[https://theevilbit.github.io/posts/vmware_fusion_11_guest_vm_rce_cve-2019-5514/](https://theevilbit.github.io/posts/vmware_fusion_11_guest_vm_rce_cve-2019-5514/)
+
+[https://googleprojectzero.blogspot.com/2019/04/splitting-atoms-in-xnu.html](https://googleprojectzero.blogspot.com/2019/04/splitting-atoms-in-xnu.html)
+
+[https://www.zerodayinitiative.com/blog/2019/4/3/loading-up-a-pair-of-qt-bugs-detailing-cve-2019-1636-and-cve-2019-6739](https://www.zerodayinitiative.com/blog/2019/4/3/loading-up-a-pair-of-qt-bugs-detailing-cve-2019-1636-and-cve-2019-6739)
