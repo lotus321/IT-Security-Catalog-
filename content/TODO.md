@@ -1170,3 +1170,23 @@ These links are about to be added. ~380 Links to go...
 [https://googleprojectzero.blogspot.com/2019/04/splitting-atoms-in-xnu.html](https://googleprojectzero.blogspot.com/2019/04/splitting-atoms-in-xnu.html)
 
 [https://www.zerodayinitiative.com/blog/2019/4/3/loading-up-a-pair-of-qt-bugs-detailing-cve-2019-1636-and-cve-2019-6739](https://www.zerodayinitiative.com/blog/2019/4/3/loading-up-a-pair-of-qt-bugs-detailing-cve-2019-1636-and-cve-2019-6739)
+
+[https://www.somersetrecon.com/blog/2019/ghidra-plugin-development-for-vulnerability-research-part-1](https://www.somersetrecon.com/blog/2019/ghidra-plugin-development-for-vulnerability-research-part-1)
+
+[https://ssd-disclosure.com/index.php/archives/3944](https://ssd-disclosure.com/index.php/archives/3944)
+
+[https://www.malwaretech.com/2019/04/analysis-of-a-vb-script-heap-overflow.html](https://www.malwaretech.com/2019/04/analysis-of-a-vb-script-heap-overflow.html)
+
+[https://mtowalski.github.io/](https://mtowalski.github.io/)
+
+[https://googleprojectzero.blogspot.com/2019/04/virtually-unlimited-memory-escaping.html](https://googleprojectzero.blogspot.com/2019/04/virtually-unlimited-memory-escaping.html)
+
+[https://www.fortinet.com/blog/threat-research/rpc-bug-hunting-case-studies---part-2.html](https://www.fortinet.com/blog/threat-research/rpc-bug-hunting-case-studies---part-2.html)
+
+[https://www.microsoft.com/security/blog/2019/04/10/analysis-of-a-targeted-attack-exploiting-the-winrar-cve-2018-20250-vulnerability/](https://www.microsoft.com/security/blog/2019/04/10/analysis-of-a-targeted-attack-exploiting-the-winrar-cve-2018-20250-vulnerability/)
+
+[https://www.shogunlab.com/blog/2019/04/12/here-be-dragons-ghidra-0.html](https://www.shogunlab.com/blog/2019/04/12/here-be-dragons-ghidra-0.html)
+
+[https://medium.com/@CodeColorist/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43?sk=3970823f97714fac1d04d75325e3cbac](https://medium.com/@CodeColorist/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43?sk=3970823f97714fac1d04d75325e3cbac)
+
+[https://tthtlc.wordpress.com/2019/03/16/afl-unicorn-what-is-it-and-how-to-use-it/](https://tthtlc.wordpress.com/2019/03/16/afl-unicorn-what-is-it-and-how-to-use-it/)
