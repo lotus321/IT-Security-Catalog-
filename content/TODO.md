@@ -1190,3 +1190,21 @@ These links are about to be added. ~380 Links to go...
 [https://medium.com/@CodeColorist/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43?sk=3970823f97714fac1d04d75325e3cbac](https://medium.com/@CodeColorist/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43?sk=3970823f97714fac1d04d75325e3cbac)
 
 [https://tthtlc.wordpress.com/2019/03/16/afl-unicorn-what-is-it-and-how-to-use-it/](https://tthtlc.wordpress.com/2019/03/16/afl-unicorn-what-is-it-and-how-to-use-it/)
+
+[https://googleprojectzero.blogspot.com/2019/04/windows-exploitation-tricks-abusing.html](https://googleprojectzero.blogspot.com/2019/04/windows-exploitation-tricks-abusing.html)
+
+[https://securelist.com/new-win32k-zero-day-cve-2019-0859/90435/](https://securelist.com/new-win32k-zero-day-cve-2019-0859/90435/)
+
+[https://blog.zecops.com/vulnerabilities/analyzing-the-ios-telugu-crash-part-i/](https://blog.zecops.com/vulnerabilities/analyzing-the-ios-telugu-crash-part-i/)
+
+[https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html](https://blog.quarkslab.com/reverse-engineering-broadcom-wireless-chipsets.html)
+
+[https://outflank.nl/blog/2019/04/17/bypassing-amsi-for-vba/](https://outflank.nl/blog/2019/04/17/bypassing-amsi-for-vba/)
+
+[https://www.zerodayinitiative.com/blog/2019/4/18/the-story-of-two-winning-pwn2own-jit-vulnerabilities-in-mozilla-firefox](https://www.zerodayinitiative.com/blog/2019/4/18/the-story-of-two-winning-pwn2own-jit-vulnerabilities-in-mozilla-firefox)
+
+[https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f5a8289d4f69e9e34b38a1e7c05ef4818b22cd5b.pdf](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/f5a8289d4f69e9e34b38a1e7c05ef4818b22cd5b.pdf)
+
+[https://sensepost.com/blog/2019/understanding-peap-in-depth/](https://sensepost.com/blog/2019/understanding-peap-in-depth/)
+
+[https://srcincite.io/blog/2019/04/19/its-not-our-sandbox-auditing-foxit-readers-pdf-printer-for-an-eop.html](https://srcincite.io/blog/2019/04/19/its-not-our-sandbox-auditing-foxit-readers-pdf-printer-for-an-eop.html)
