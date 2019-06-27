@@ -2,17 +2,6 @@
 
 ## Tasks
 
-### Urgent
-
-1. add links from "Waiting List" to categories
-2. add more links to "Browser Exploitation"
-3. add more links to "Mobile Exploitation"
-4. rename "Mitigations" sections
-5. rename all section names, change categories
-6. Browser Exploitation: add columns \(software version, vulnerability type\)
-7. update and sort out "Various Sutff" section
-8. split categories by pages
-
 ### Later
 
 1. Secure Coding: add more links
@@ -27,14 +16,13 @@
 
 ## Waiting List
 
-These links are about to be added. ~380 Links to go...
-
-* Articles from [https://scarybeastsecurity.blogspot.de/](https://scarybeastsecurity.blogspot.de/)
-* Articles from [https://modexp.wordpress.com/](https://modexp.wordpress.com/)
-* Articles from [https://lazytyped.blogspot.de/?m=1](https://lazytyped.blogspot.de/?m=1)
-* Articles from [http://tukan.farm/2016/07/26/ptmalloc-fanzine/](http://tukan.farm/2016/07/26/ptmalloc-fanzine/)
+* [https://scarybeastsecurity.blogspot.de/](https://scarybeastsecurity.blogspot.de/)
+* [https://modexp.wordpress.com/](https://modexp.wordpress.com/)
+* [https://lazytyped.blogspot.de/?m=1](https://lazytyped.blogspot.de/?m=1)
+* [http://tukan.farm/2016/07/26/ptmalloc-fanzine/](http://tukan.farm/2016/07/26/ptmalloc-fanzine/)
 * [https://bugs.chromium.org/p/chromium/issues/list?can=1&q=Pwn2Own&colspec=ID+Pri+M+Stars+ReleaseBlock+Component+Status+Owner+Summary+OS+Modified&x=m&y=releaseblock&cells=ids](https://bugs.chromium.org/p/chromium/issues/list?can=1&q=Pwn2Own&colspec=ID+Pri+M+Stars+ReleaseBlock+Component+Status+Owner+Summary+OS+Modified&x=m&y=releaseblock&cells=ids)
 * [http://robert.ocallahan.org](http://robert.ocallahan.org)
+* [https://rayanfam.com/](https://rayanfam.com/)
 
 
 ### 2015
@@ -1312,3 +1300,61 @@ These links are about to be added. ~380 Links to go...
 [https://rce.wtf/2019/05/04/jsc.html](https://rce.wtf/2019/05/04/jsc.html)
 
 [https://www.malwaretech.com/2019/05/analysis-of-cve-2019-0708-bluekeep.html](https://www.malwaretech.com/2019/05/analysis-of-cve-2019-0708-bluekeep.html)
+
+[https://www.zerodayinitiative.com/blog/2019/6/6/mindshare-hardware-reversing-with-the-belkin-surf-n300-router](https://www.zerodayinitiative.com/blog/2019/6/6/mindshare-hardware-reversing-with-the-belkin-surf-n300-router)
+
+[https://casualhacking.io/blog/2019/6/2/debug-uefi-code-by-single-stepping-your-coffee-lake-s-hardware-cpu](https://casualhacking.io/blog/2019/6/2/debug-uefi-code-by-single-stepping-your-coffee-lake-s-hardware-cpu)
+
+[https://medium.com/@stankoja/v8-bug-hunting-part-1-setting-up-the-debug-environment-7ef34dc6f2de](https://medium.com/@stankoja/v8-bug-hunting-part-1-setting-up-the-debug-environment-7ef34dc6f2de)
+
+[https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html](https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html)
+
+[https://rayanfam.com/topics/finding-the-real-access-rights-needed-by-handles/](https://rayanfam.com/topics/finding-the-real-access-rights-needed-by-handles/)
+
+[https://security.googleblog.com/2019/06/pha-family-highlights-triada.html](https://security.googleblog.com/2019/06/pha-family-highlights-triada.html)
+
+[https://rce.wtf/2019/05/28/Safari.html](https://rce.wtf/2019/05/28/Safari.html)
+
+[https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d](https://medium.com/@lerner98/skiptracing-reversing-spotify-app-3a6df367287d)
+
+[https://rce.wtf/2019/06/10/w2k.html](https://rce.wtf/2019/06/10/w2k.html)
+
+[https://www.zerodayinitiative.com/blog/2019/6/11/exploiting-the-windows-task-scheduler-through-cve-2019-1069](https://www.zerodayinitiative.com/blog/2019/6/11/exploiting-the-windows-task-scheduler-through-cve-2019-1069)
+
+[https://blog.preempt.com/security-advisory-critical-vulnerabilities-in-ntlm](https://blog.preempt.com/security-advisory-critical-vulnerabilities-in-ntlm)
+
+[https://0x00-0x00.github.io/research/2019/05/30/Coding-a-reliable-CVE-2019-0841-Bypass.html](https://0x00-0x00.github.io/research/2019/05/30/Coding-a-reliable-CVE-2019-0841-Bypass.html)
+
+[https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/](https://blog.rapid7.com/2019/06/12/heap-overflow-exploitation-on-windows-10-explained/)
+
+[https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/](https://dirkjanm.io/exploiting-CVE-2019-1040-relay-vulnerabilities-for-rce-and-domain-admin/)
+
+[https://liveoverflow.com/webkit-regexp-exploit-addrof-walk-through-browser-0x04/](https://liveoverflow.com/webkit-regexp-exploit-addrof-walk-through-browser-0x04/)
+
+[https://theofficialflow.github.io/2019/06/18/trinity.html](https://theofficialflow.github.io/2019/06/18/trinity.html)
+
+[https://github.com/houjingyi233/office-exploit-case-study](https://github.com/houjingyi233/office-exploit-case-study)
+
+[https://zeropwn.github.io/2019-05-22-fun-with-uri-handlers/](https://zeropwn.github.io/2019-05-22-fun-with-uri-handlers/)
+
+[https://labs.nettitude.com/blog/why-you-should-always-have-two-factor-authentication-on-your-vpn-cve-2018-20319/](https://labs.nettitude.com/blog/why-you-should-always-have-two-factor-authentication-on-your-vpn-cve-2018-20319/)
+
+[https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2019-8635-double-free-vulnerability-in-apple-macos-lets-attackers-escalate-system-privileges-and-execute-arbitrary-code/](https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2019-8635-double-free-vulnerability-in-apple-macos-lets-attackers-escalate-system-privileges-and-execute-arbitrary-code/)
+
+[https://ai.google/research/pubs/pub48285](https://ai.google/research/pubs/pub48285)
+
+[https://bordplate.no/blog/en/post/crashplan-privilege-escalation/](https://bordplate.no/blog/en/post/crashplan-privilege-escalation/)
+
+[https://objective-see.com/blog/blog_0x43.html](https://objective-see.com/blog/blog_0x43.html)
+
+[https://liveoverflow.com/the-fakeobj-primitive-turning-an-address-leak-into-a-memory-corruption-browser-0x05/](https://liveoverflow.com/the-fakeobj-primitive-turning-an-address-leak-into-a-memory-corruption-browser-0x05/)
+
+[https://github.com/CptGibbon/House-of-Corrosion](https://github.com/CptGibbon/House-of-Corrosion)
+
+[https://msrc-blog.microsoft.com/2019/06/25/inside-the-msrc-customer-centric-incident-response/](https://msrc-blog.microsoft.com/2019/06/25/inside-the-msrc-customer-centric-incident-response/)
+
+[https://research.checkpoint.com/thumbs-up-using-machine-learning-to-improve-idas-analysis/](https://research.checkpoint.com/thumbs-up-using-machine-learning-to-improve-idas-analysis/)
+
+[http://blog.ret2.io/2019/06/26/attacking-intel-tsx/](http://blog.ret2.io/2019/06/26/attacking-intel-tsx/)
+
+[https://msrc-blog.microsoft.com/2019/06/27/inside-the-msrc-anatomy-of-a-ssirp-incident/](https://msrc-blog.microsoft.com/2019/06/27/inside-the-msrc-anatomy-of-a-ssirp-incident/)
