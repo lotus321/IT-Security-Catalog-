@@ -31,6 +31,8 @@ Listings are in no particular order except when there is a date.
 | 17 | https://blog.fuzzing-project.org/60-Optionsbleed-HTTP-OPTIONS-method-can-leak-Apaches-server-memory.html | Optionsbleed - HTTP OPTIONS method can leak Apache's server memory | CVE-2017-9798 |
 | 18 | https://www.krackattacks.com/ | Key Reinstallation Attacks: Breaking WPA2 by forcing nonce reuse | * |
 | 19 | https://foreshadowattack.eu/ | Foreshadow - Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution | N/A |
+| 20 | https://plundervolt.com/ | How a little bit of undervolting can cause a lot of problems | N/A |
+| 21 | https://cpu.fail/ | Zombieload, RIDL, Fallout, Meltdown, Store-To-Leak Forwarding | N/A |
 
 ## Online tools and services
 
