@@ -33,6 +33,7 @@ Listings are in no particular order except when there is a date.
 | 19 | https://foreshadowattack.eu/ | Foreshadow - Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution | N/A |
 | 20 | https://plundervolt.com/ | How a little bit of undervolting can cause a lot of problems | N/A |
 | 21 | https://cpu.fail/ | Zombieload, RIDL, Fallout, Meltdown, Store-To-Leak Forwarding | N/A |
+| 22 | https://cacheoutattack.com/ | CacheOut: Leaking Data on Intel CPUs via Cache Evictions | N/A |
 
 ## Online tools and services
 
@@ -332,6 +333,7 @@ TODO: add exploits from "exploit site:bugs.chromium.org"
 | 6 | [https://symeonp.github.io/2017/09/17/fuz...](https://symeonp.github.io/2017/09/17/fuzzing-winafl.html) | Fuzzing the MSXML6 library with WinAFL | 17-09-2017 | Symeon | Windows | N/A |
 | 7 | [https://kciredor.com/fuzzing-adobe-reade...](https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html) | Fuzzing Adobe Reader for exploitable vulns (fun != profit) | 25-04-2018 | kciredor | - | N/A |
 | 8 | [https://www.fuzzingbook.org/](https://www.fuzzingbook.org/) | Generating Software Tests | xx-xx-2018 | Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler | - | N/A |
+| 9 | [https://blog.jmpesp.org/2020/01/fuzzing-...](https://blog.jmpesp.org/2020/01/fuzzing-php-with-domato.html) | Fuzzing PHP with Domato | 03-01-2020 | Andrew | (jmpesp) | N/A |
 
 
 ## Around security
